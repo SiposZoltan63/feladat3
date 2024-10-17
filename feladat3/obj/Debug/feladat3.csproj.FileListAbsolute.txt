@@ -1,0 +1,7 @@
+C:\Users\sipos\source\repos\feladat3\feladat3\bin\Debug\feladat3.exe.config
+C:\Users\sipos\source\repos\feladat3\feladat3\bin\Debug\feladat3.exe
+C:\Users\sipos\source\repos\feladat3\feladat3\bin\Debug\feladat3.pdb
+C:\Users\sipos\source\repos\feladat3\feladat3\obj\Debug\feladat3.csproj.AssemblyReference.cache
+C:\Users\sipos\source\repos\feladat3\feladat3\obj\Debug\feladat3.csproj.CoreCompileInputs.cache
+C:\Users\sipos\source\repos\feladat3\feladat3\obj\Debug\feladat3.exe
+C:\Users\sipos\source\repos\feladat3\feladat3\obj\Debug\feladat3.pdb
